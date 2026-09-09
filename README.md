@@ -140,3 +140,13 @@ Use **Export JSON** if you want a backup.
 
 MIT
 
+
+## Updated Grade Point Scale
+
+- S = 10
+- A = 9
+- B = 8
+- C = 7
+- D = 6
+- F = 0
+- AB = Absent (0 grade points)
